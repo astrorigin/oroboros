@@ -1,0 +1,12 @@
+====================
+Oroboros - Todo file
+====================
+
+Or: things that could be done, and that nobody does.
+
+  - Missing (and better) glyphs
+  - Translations
+  - A win32 port (including pyswisseph)
+  - Debugging...
+
+..

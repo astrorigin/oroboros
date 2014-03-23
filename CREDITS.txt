@@ -1,0 +1,8 @@
+=======================
+Oroboros - Credits file
+=======================
+
+  - Pholus glyph inspired by
+    `Z.B.Stein website <http://zanestein.com/pholus.htm>`_
+
+..

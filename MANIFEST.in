@@ -1,0 +1,17 @@
+include oroboros/*.txt
+include oroboros/core/*.sql
+include oroboros/core/*.txt
+include oroboros/gui/icons/*.png
+include oroboros/gui/icons/zodiac/*.png
+include oroboros/gui/icons/cusps/*.png
+include oroboros/gui/icons/planets/*.png
+include oroboros/gui/tr/*.qm
+include oroboros/gui/tr/*.ts
+include oroboros/irc/*.txt
+include share/*
+
+include *.txt
+include *.cfg
+include Makefile
+include Oroboros.e4*
+include MANIFEST.in

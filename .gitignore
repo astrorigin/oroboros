@@ -1,0 +1,16 @@
+# Oroboros gitignore
+*~
+*.bak
+*.html
+*.orig
+*.pyc
+build*
+dist*
+doc
+MANIFEST
+
+# erik4
+*.e4p
+*.e4q
+*.e4t
+

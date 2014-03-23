@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Oroboros
+GenericName=Astrology software
+Comment=Astrology software written in Python
+Icon=oroboros.png
+Exec=oroboros
+TryExec=oroboros
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Science;Astronomy;

@@ -1,0 +1,32 @@
+=======================
+Oroboros - Install file
+=======================
+
+Requirements
+------------
+Most of them are pre-built and packaged for the major Linux distros.
+If not, they come with their own install instructions...
+
+  - `Python <http://www.python.org>`_ language, version >= 2.5
+
+Additional modules:
+
+  - sqlite (included in Python >= 2.5)
+  - `pytz <http://pytz.sourceforge.net>`_
+  - `pyswisseph <http://pypi.python.org/pypi/pyswisseph>`_ version >= 1.74.00-0
+  - `PyQt4 <http://www.riverbankcomputing.co.uk/pyqt>`_ version >= 4.3
+
+Optionally:
+
+  - `docutils <http://docutils.sourceforge.net>`_ latest snapshot
+  - `Mercurial <http://www.selenic.com/mercurial>`_
+  - `Supybot <http://supybot.com>`_
+
+Install
+-------
+For a global site install, run (as usual) the setup script with
+superuser permissions: ``python setup.py install``
+
+Or use the Makefile, just type: ``make install``
+
+..

@@ -1,0 +1,15 @@
+#
+# Oroboros configuration file
+# ___________________________
+#
+# Lines beginning with "#" or ";" are ignored
+# and may be used to provide comments.
+#
+
+[sqlite]
+
+# Path to database file
+#
+path = ~/.oroboros/oroboros.db
+
+# End.

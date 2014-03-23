@@ -1,0 +1,16 @@
+==========================
+Oroboros - Known bugs file
+==========================
+
+The fixed stars can randomly crash (segfault) the application.
+I suspect this is due to an unconsistent fixstars.cat file pointer
+management inside the swisseph itself. See chartcalc.py file.
+Workaround: close sqlite db before calls to fixstars.
+
+The geonames.org query system doesnt work with Qt version 4.4.0.
+At least for me. Everything ok with previous versions.
+
+I wish to get back some feedback about bugs. Even noobuntu users.
+Please send mail to stnsls@gmail.com. Thanks in advance.
+
+..
